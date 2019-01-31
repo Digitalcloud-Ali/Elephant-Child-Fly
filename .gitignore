@@ -1,0 +1,8 @@
+.DS_Store*
+*.apk
+*~
+nraboy.keystore
+*.meta
+*.ipa
+Temp/*
+Raw Media/Sounds/*.zip
